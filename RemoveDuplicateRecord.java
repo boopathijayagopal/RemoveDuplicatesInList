@@ -3,7 +3,9 @@ package com.test.linkedhasset;
 import java.util.ArrayList;
 import java.util.LinkedHashSet;
 import java.util.List;
-
+/**
+*
+*/
 public class RemoveDuplicateRecord {
 	static List<UserVO> an = new ArrayList<UserVO>();
 	static List<UserVO> bn = new ArrayList<UserVO>();
